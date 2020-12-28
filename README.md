@@ -1,2 +1,2 @@
-# expert-winner
+# huzuni-cheats
 Huzuni 3.5
